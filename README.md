@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 
-- Fonts used in the project: [Poppins](https://fonts.google.com/specimen/Poppins) and D-DIN (custom font).
+- Fonts used in the project: [Poppins](https://fonts.google.com/specimen/Poppins) an [D-DIN] (https://fonts.cdnfonts.com/css/d-din).
 
 ---
 
